@@ -50,10 +50,10 @@
   width: 25%;
   justify-content: center;
 
-  /* position: sticky; */
-  /* top: 0; Adjust this value as needed */
-  /* max-height: 100vh; Ensure it doesn't exceed the viewport height */
-  /* overflow-y: auto; Add scroll if content exceeds the container height */
+  /*position: sticky; */
+  /*top: 0; Adjust this value as needed */
+  /*max-height: 100vh; Ensure it doesn't exceed the viewport height */
+  /*overflow-y: auto; Add scroll if content exceeds the container height 
 
   /* border: 1px solid white; */
 }
